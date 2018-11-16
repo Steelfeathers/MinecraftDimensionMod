@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": { "model": "dimensions:sulfur_gas_block" },
+        "spread_level=0": { "model": "dimensions:sulfur_gas_block" },
+        "spread_level=1": { "model": "dimensions:sulfur_gas_block" },
+        "spread_level=2": { "model": "dimensions:sulfur_gas_block" },
+        "spread_level=3": { "model": "dimensions:sulfur_gas_block" },
+        "spread_level=4": { "model": "dimensions:sulfur_gas_block" },
+        "spread_level=5": { "model": "dimensions:sulfur_gas_block" }
+    }
+}
