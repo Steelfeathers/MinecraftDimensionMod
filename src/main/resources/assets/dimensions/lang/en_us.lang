@@ -1,0 +1,18 @@
+itemGroup.tab_dimensions=Dimension Hopper
+
+item.ruby.name=Ruby
+item.honeycomb.name=Honeycomb
+item.wax.name=Wax
+item.egg_bee.name=Bee Egg
+item.egg_bee_queen.name=Queen Bee Egg
+
+tile.ruby_block.name=Ruby Block
+tile.sulfur_block.name=Sulfur
+tile.sulfur_gas_block.name=Sulfur Gas
+tile.honeycomb_block.name=Honeycomb
+tile.honeycomb_filled_block.name=Filled Honeycomb
+tile.honeycomb_dark_block.name=Dark Honeycomb
+tile.honeycomb_egg_block.name=Egg Honeycomb
+tile.honeycomb_egg_queen_block.name=Queen Egg Honeycomb
+
+entity.custom_cow.name=Test Cow

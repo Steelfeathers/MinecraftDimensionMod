@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "dimensions:honeycomb_filled_block" }
+    }
+}
